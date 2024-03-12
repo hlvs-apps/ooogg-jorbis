@@ -33,9 +33,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/allantaborda/ooogg-jorbis.git</connection>
-		<developerConnection>scm:git:ssh://github.com:allantaborda/ooogg-jorbis.git</developerConnection>
-		<url>http://github.com/allantaborda/ooogg-jorbis/tree/master</url>
+		<connection>scm:git:git://github.com/hlvs-apps/ooogg-jorbis.git</connection>
+		<developerConnection>scm:git:ssh://github.com:hlvs-apps/ooogg-jorbis.git</developerConnection>
+		<url>http://github.com/hlvs-apps/ooogg-jorbis/tree/master</url>
 	</scm>
 	<repositories>
 		<repository>
@@ -47,7 +47,7 @@
 	<dependency>
 	    <groupId>com.github.allantaborda</groupId>
 	    <artifactId>ooogg</artifactId>
-	    <version>-ff4c7a1efc-1</version>
+	    <version>ff4c7a1efc</version>
 	</dependency>
 	</dependencies>
 	<properties>
